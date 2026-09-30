@@ -1,0 +1,68 @@
+ssh-keygen
+atp install github
+history
+apt install github
+sudo apt install github
+sudo apt install git
+$home
+cd /home
+cd
+sudo apt update
+sudo apt install git -y
+cat $home/ .ssh/*.pub
+cat $home/.ssh/*.pub
+cat $HOME/.ssh/*.pub
+cat /home
+sudo apt install -y gh
+gh
+open gh
+bash gh
+gh --version
+gh autoh login
+gh auth login
+whoami
+echo $HOME
+ls -la $HOME/.ssh/
+hostname
+cd
+cat $HOME/.ssh/*.pub
+cat
+ls -l /home/mati
+ls /home/mati
+ls -l /home/mati/descargas
+ls -l /home/mati/Descargas
+mkdir repogit
+cd repogit
+git clone git@github.com:BMatiasEduardo/TP_AySO.git
+sudo git clone git@github.com:BMatiasEduardo/TP_AySO.git
+whoami; echo $HOME; ls -la $HOME/.ssh/; ssh -T git@github.com
+cat $HOME/home/.ssh/id_ed25519.pub
+cat $HOME/mati/.ssh/id_ed25519.pub
+ssh-keygen
+cd
+mkdir regit
+mkdirrepogit
+cd
+bash history
+.bash history
+ls -la ~/.ssh/
+cat ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+cd ~/repogit/TP_AySO
+pwd
+echo "Usuario=$(whoami)" > datos_usuario.txt
+echo "Usuario=$(whoami)">datos_usuario.txt
+car datos_usuario.txt
+cat datos_usuario.txt
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt 
+cat datos_usuario.txt
+cat <<EOF >> README.md
+Alumno: Matias Benitez
+Division: 311
+Turno: Noche 
+EOF
+
+history -a
